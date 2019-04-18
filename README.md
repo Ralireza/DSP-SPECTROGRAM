@@ -16,3 +16,5 @@ after that it compute discrete time fourier transform for each section and retur
 
 ### 3- show_spetrogram(spectrogram_matrix, nfft)
 show imagee of spectrogram by matplotlib.pyplot
+
+#### feel free to play with params :)
