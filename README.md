@@ -1,9 +1,9 @@
 # DSP-SPECTROGRAM
 create spectrogram of signal from scratch
+![example](https://raw.githubusercontent.com/4lrz/dsp-spectrogram/master/Figure_1.png)
 
 ## Description
 specto class divided into 3 origin function:
-![example](https://raw.githubusercontent.com/4lrz/dsp-spectrogram/master/Figure_1.png)
 ### 1- readfile(filename='sound.wav')
 read wave sound and get one channel of sound 
 
